@@ -1,4 +1,3 @@
-__author__ = 'pratik1'
 # Copyright (c) 2014 Adafruit Industries
 # Author: Tony DiCola
 #
